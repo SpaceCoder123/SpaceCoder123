@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SpaceCoder123
 - HackerRank Profile -> https://www.hackerrank.com/mohanraam2000
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?usernameSpaceCoder123&color=green)
 
 <!---
 SpaceCoder123/SpaceCoder123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
